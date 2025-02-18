@@ -20,7 +20,7 @@ These problems are about an agent repeatedly facing the same fundamental problem
 So, the agent is always trying to solve the same problem: "Which arm should I choose to maximize my reward?" However, its knowledge about the arms changes with each pull. This means the optimal action might change over time as the agent learns more.
 
 ### Code Overview
-[Overview Markdown file](https://github.com/IrineosMagou/FederatedLearning/blob/main/Overview.md)
+[Overview](https://github.com/IrineosMagou/FederatedLearning/blob/main/Overview.md)
 ### Credits
 This code is based on the article: [Client Selection for Generalization in
 Accelerated Federated Learning:
